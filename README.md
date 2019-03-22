@@ -3,6 +3,10 @@
 An archive of unrelated scripts used to handle little tasks.
 (Shell scripts, Logstash Conf files)
 
+
+**Root Directory: ./archive**
+
+
 **- launch_opernfire.sh**
 
   Written to help launch openfire server when the Application tray fails (mac).
